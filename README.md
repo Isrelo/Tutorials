@@ -1,2 +1,2 @@
 # Tutorials
-This is the home of the onilne tutorial.
+This is the home of the online tutorial.
